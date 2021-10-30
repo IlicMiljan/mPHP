@@ -1,0 +1,6 @@
+{
+  "autoload": {
+    "classmap": ["core", "migrations", "app"],
+    "files": ["config/config.php", "config/database.php"]
+  }
+}
